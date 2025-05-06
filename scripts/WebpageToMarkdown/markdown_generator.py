@@ -24,26 +24,21 @@ def fetch_markdown_with_gaffa(url):
         }
     }
 
-
     headers = {
         "x-api-key": GAFFA_API_KEY,
         "Content-Type": "application/json"
     }
 
-
     print("Calling Gaffa API to generate markdown...")
     response = requests.post("https://api.gaffa.dev/v1/browser/requests", json=payload, headers=headers)
     response.raise_for_status()
 
-
     markdown_url = response.json()["data"]["actions"][1]["output"]
-
-
+    
     print(f"📥 Fetching markdown from: {markdown_url}")
     markdown_response = requests.get(markdown_url)
     markdown_response.raise_for_status()
-
-
+    
     return markdown_response.text
   
   def ask_question(markdown, question):
@@ -53,7 +48,6 @@ def fetch_markdown_with_gaffa(url):
         f"Markdown content:\n{markdown[:3000]}\n\n"
         f"Question: {question}\nAnswer as clearly as possible."
     )
-
 
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
@@ -68,7 +62,6 @@ def fetch_markdown_with_gaffa(url):
     try:
         markdown = fetch_markdown_with_gaffa(url)
         print("\n✅ Markdown successfully retrieved from Gaffa.\n")
-
 
         while True:
             question = input("Ask a question about the content (or type 'exit'): ")
