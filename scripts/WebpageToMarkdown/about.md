@@ -1,5 +1,5 @@
 # Convert Any Web Page to LLM-Ready Markdown Using Gaffa - Building a Simple Python CLI Tool
-This folder contains a simple script which will show you how you can use Gaffa to convert any web page to markdown for ingesting into an LLM app. For more information, read the [accompanying post on the Gaffa blog](https://gaffa.dev/blog).
+This folder contains a simple script which will show you how you can use Gaffa to convert any web page to markdown for ingesting into an LLM app. For more information, read the [accompanying post on the Gaffa blog](https://gaffa.dev/blog/convert-any-web-page-to-llm-ready-markdown-using-gaffa).
 
 ## How to Run
 First make sure you have the required libraries installed and your API keys set up in the `.env` file. 
