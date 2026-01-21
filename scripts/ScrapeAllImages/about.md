@@ -1,4 +1,4 @@
-# Stop Right-Click Saving: Automatically Scrape Every Image from a Website
+# Automatically Scrape Every Image from a Website
 
 This folder contains a Python script that demonstrates how to use Gaffa's [Site Mapping](https://gaffa.dev/docs/features/mapping-requests) and [Browser Requests](https://gaffa.dev/docs/features/browser-requests/actions/download-file) APIs to automatically scrape and download every image from a website.
 
