@@ -1,6 +1,6 @@
 # Automatically Scrape Every Image from a Website
 
-This folder contains a Python script that demonstrates how to use Gaffa's [Site Mapping](https://gaffa.dev/docs/features/mapping-requests) and [Browser Requests](https://gaffa.dev/docs/features/browser-requests/actions/download-file) APIs to automatically scrape and download every image from a website.
+This folder contains a Python script that demonstrates how to use Gaffa's [Site Mapping](https://gaffa.dev/docs/features/mapping-requests) and [Browser Requests](https://gaffa.dev/docs/features/browser-requests/actions/download-file) APIs to automatically scrape and download every image from a website. For more information, read the [accompanying blog post](https://gaffa.dev/blog/how-to-automatically-scrape-every-image-from-a-website) or the [full tutorial](https://gaffa.dev/docs/tutorials/how-to-scrape-all-images-from-a-website-using-gaffa).
 
 ## What It Does
 
