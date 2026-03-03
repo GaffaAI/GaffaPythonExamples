@@ -84,5 +84,5 @@ Column headers are automatically normalised by Gaffa — lowercased and special 
 
 ## Notes
 
-- For sites that restrict access by geography, add `proxy_location="us"` (or any supported region) to route the request through the appropriate IP.
+- For sites that require proxy access or restrict by geography, add `proxy_location="us"` (or any supported region) to route the request through the appropriate IP.
 - All JSON output files (`table_data.json`, `gdp_data.json`) are saved to the `output/` folder.
