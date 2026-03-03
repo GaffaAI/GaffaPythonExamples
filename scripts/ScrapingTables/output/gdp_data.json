@@ -1,0 +1,1334 @@
+[
+  {
+    "country_territory": "World",
+    "imf__2026__1": "123,584,494",
+    "world_bank__2024__6": "111,326,370",
+    "united_nations__2024__7": "100,834,796"
+  },
+  {
+    "country_territory": "United States",
+    "imf__2026__1": "31,821,293",
+    "world_bank__2024__6": "28,750,956",
+    "united_nations__2024__7": "29,298,000"
+  },
+  {
+    "country_territory": "China[n 1]",
+    "imf__2026__1": "20,650,754",
+    "world_bank__2024__6": "18,743,803",
+    "united_nations__2024__7": "18,743,802"
+  },
+  {
+    "country_territory": "Germany",
+    "imf__2026__1": "5,328,184",
+    "world_bank__2024__6": "4,685,593",
+    "united_nations__2024__7": "4,659,929"
+  },
+  {
+    "country_territory": "India",
+    "imf__2026__1": "4,515,629",
+    "world_bank__2024__6": "3,909,892",
+    "united_nations__2024__7": "3,952,244"
+  },
+  {
+    "country_territory": "Japan",
+    "imf__2026__1": "4,463,634",
+    "world_bank__2024__6": "4,027,598",
+    "united_nations__2024__7": "4,026,211"
+  },
+  {
+    "country_territory": "United Kingdom",
+    "imf__2026__1": "4,225,639",
+    "world_bank__2024__6": "3,686,033",
+    "united_nations__2024__7": "3,685,881"
+  },
+  {
+    "country_territory": "France",
+    "imf__2026__1": "3,558,562",
+    "world_bank__2024__6": "3,160,443",
+    "united_nations__2024__7": "3,160,443"
+  },
+  {
+    "country_territory": "Italy",
+    "imf__2026__1": "2,701,544",
+    "world_bank__2024__6": "2,380,825",
+    "united_nations__2024__7": "2,380,825"
+  },
+  {
+    "country_territory": "Russia",
+    "imf__2026__1": "2,509,421",
+    "world_bank__2024__6": "2,173,836",
+    "united_nations__2024__7": "2,173,386"
+  },
+  {
+    "country_territory": "Canada",
+    "imf__2026__1": "2,420,837",
+    "world_bank__2024__6": "2,243,637",
+    "united_nations__2024__7": "2,270,076"
+  },
+  {
+    "country_territory": "Brazil",
+    "imf__2026__1": "2,292,690",
+    "world_bank__2024__6": "2,185,822",
+    "united_nations__2024__7": "2,185,822"
+  },
+  {
+    "country_territory": "Spain",
+    "imf__2026__1": "2,041,830",
+    "world_bank__2024__6": "1,725,672",
+    "united_nations__2024__7": "1,722,746"
+  },
+  {
+    "country_territory": "Mexico",
+    "imf__2026__1": "2,030,999",
+    "world_bank__2024__6": "1,856,366",
+    "united_nations__2024__7": "1,852,723"
+  },
+  {
+    "country_territory": "Australia",
+    "imf__2026__1": "1,948,227",
+    "world_bank__2024__6": "1,757,022",
+    "united_nations__2024__7": "1,830,610"
+  },
+  {
+    "country_territory": "South Korea",
+    "imf__2026__1": "1,936,617",
+    "world_bank__2024__6": "1,875,388",
+    "united_nations__2024__7": "1,875,388"
+  },
+  {
+    "country_territory": "Turkey",
+    "imf__2026__1": "1,576,110",
+    "world_bank__2024__6": "1,359,124",
+    "united_nations__2024__7": "1,323,255"
+  },
+  {
+    "country_territory": "Indonesia",
+    "imf__2026__1": "1,550,236",
+    "world_bank__2024__6": "1,396,300",
+    "united_nations__2024__7": "1,396,300"
+  },
+  {
+    "country_territory": "Netherlands",
+    "imf__2026__1": "1,413,076",
+    "world_bank__2024__6": "1,214,928",
+    "united_nations__2024__7": "1,214,928"
+  },
+  {
+    "country_territory": "Saudi Arabia",
+    "imf__2026__1": "1,316,250",
+    "world_bank__2024__6": "1,239,805",
+    "united_nations__2024__7": "1,254,141"
+  },
+  {
+    "country_territory": "Poland",
+    "imf__2026__1": "1,109,962",
+    "world_bank__2024__6": "917,767",
+    "united_nations__2024__7": "914,696"
+  },
+  {
+    "country_territory": "Switzerland",
+    "imf__2026__1": "1,074,588",
+    "world_bank__2024__6": "936,564",
+    "united_nations__2024__7": "936,564"
+  },
+  {
+    "country_territory": "Taiwan[n 3]",
+    "imf__2026__1": "971,448",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Belgium",
+    "imf__2026__1": "761,174",
+    "world_bank__2024__6": "671,370",
+    "united_nations__2024__7": "664,564"
+  },
+  {
+    "country_territory": "Ireland",
+    "imf__2026__1": "750,112",
+    "world_bank__2024__6": "609,157",
+    "united_nations__2024__7": "577,389"
+  },
+  {
+    "country_territory": "Sweden",
+    "imf__2026__1": "711,503",
+    "world_bank__2024__6": "603,715",
+    "united_nations__2024__7": "604,899"
+  },
+  {
+    "country_territory": "Argentina",
+    "imf__2026__1": "667,922",
+    "world_bank__2024__6": "638,365",
+    "united_nations__2024__7": "638,365"
+  },
+  {
+    "country_territory": "Israel",
+    "imf__2026__1": "666,407",
+    "world_bank__2024__6": "540,380",
+    "united_nations__2024__7": "542,286"
+  },
+  {
+    "country_territory": "Singapore",
+    "imf__2026__1": "606,225",
+    "world_bank__2024__6": "547,387",
+    "united_nations__2024__7": "547,387"
+  },
+  {
+    "country_territory": "Austria",
+    "imf__2026__1": "604,198",
+    "world_bank__2024__6": "534,791",
+    "united_nations__2024__7": "534,791"
+  },
+  {
+    "country_territory": "United Arab Emirates",
+    "imf__2026__1": "601,163",
+    "world_bank__2024__6": "552,325",
+    "united_nations__2024__7": "552,325"
+  },
+  {
+    "country_territory": "Thailand",
+    "imf__2026__1": "561,509",
+    "world_bank__2024__6": "526,518",
+    "united_nations__2024__7": "526,518"
+  },
+  {
+    "country_territory": "Norway",
+    "imf__2026__1": "547,693",
+    "world_bank__2024__6": "483,593",
+    "united_nations__2024__7": "483,593"
+  },
+  {
+    "country_territory": "Philippines",
+    "imf__2026__1": "533,922",
+    "world_bank__2024__6": "461,618",
+    "united_nations__2024__7": "461,618"
+  },
+  {
+    "country_territory": "Bangladesh",
+    "imf__2026__1": "519,288",
+    "world_bank__2024__6": "450,119",
+    "united_nations__2024__7": "432,742"
+  },
+  {
+    "country_territory": "Vietnam",
+    "imf__2026__1": "511,059",
+    "world_bank__2024__6": "476,388",
+    "united_nations__2024__7": "476,388"
+  },
+  {
+    "country_territory": "Malaysia",
+    "imf__2026__1": "505,364",
+    "world_bank__2024__6": "422,227",
+    "united_nations__2024__7": "421,972"
+  },
+  {
+    "country_territory": "Denmark",
+    "imf__2026__1": "500,051",
+    "world_bank__2024__6": "424,525",
+    "united_nations__2024__7": "424,525"
+  },
+  {
+    "country_territory": "Colombia",
+    "imf__2026__1": "462,251",
+    "world_bank__2024__6": "418,818",
+    "united_nations__2024__7": "418,542"
+  },
+  {
+    "country_territory": "Hong Kong[n 4]",
+    "imf__2026__1": "446,646",
+    "world_bank__2024__6": "406,863",
+    "united_nations__2024__7": "406,863"
+  },
+  {
+    "country_territory": "Romania",
+    "imf__2026__1": "444,807",
+    "world_bank__2024__6": "382,564",
+    "united_nations__2024__7": "382,770"
+  },
+  {
+    "country_territory": "South Africa",
+    "imf__2026__1": "443,643",
+    "world_bank__2024__6": "401,145",
+    "united_nations__2024__7": "401,145"
+  },
+  {
+    "country_territory": "Czech Republic",
+    "imf__2026__1": "417,134",
+    "world_bank__2024__6": "347,034",
+    "united_nations__2024__7": "345,037"
+  },
+  {
+    "country_territory": "Pakistan",
+    "imf__2026__1": "410,495",
+    "world_bank__2024__6": "371,570",
+    "united_nations__2024__7": "379,120"
+  },
+  {
+    "country_territory": "Egypt",
+    "imf__2026__1": "399,508",
+    "world_bank__2024__6": "389,060",
+    "united_nations__2024__7": "306,907"
+  },
+  {
+    "country_territory": "Iran",
+    "imf__2026__1": "375,644",
+    "world_bank__2024__6": "475,252",
+    "united_nations__2024__7": "448,092"
+  },
+  {
+    "country_territory": "Portugal",
+    "imf__2026__1": "364,527",
+    "world_bank__2024__6": "313,271",
+    "united_nations__2024__7": "313,271"
+  },
+  {
+    "country_territory": "Chile",
+    "imf__2026__1": "363,299",
+    "world_bank__2024__6": "330,267",
+    "united_nations__2024__7": "330,267"
+  },
+  {
+    "country_territory": "Finland",
+    "imf__2026__1": "335,534",
+    "world_bank__2024__6": "298,697",
+    "united_nations__2024__7": "298,697"
+  },
+  {
+    "country_territory": "Nigeria",
+    "imf__2026__1": "334,341",
+    "world_bank__2024__6": "252,262",
+    "united_nations__2024__7": "252,084"
+  },
+  {
+    "country_territory": "Peru",
+    "imf__2026__1": "326,608",
+    "world_bank__2024__6": "289,222",
+    "united_nations__2024__7": "289,329"
+  },
+  {
+    "country_territory": "Kazakhstan",
+    "imf__2026__1": "319,770",
+    "world_bank__2024__6": "291,480",
+    "united_nations__2024__7": "291,480"
+  },
+  {
+    "country_territory": "Greece",
+    "imf__2026__1": "304,838",
+    "world_bank__2024__6": "256,238",
+    "united_nations__2024__7": "257,145"
+  },
+  {
+    "country_territory": "Algeria",
+    "imf__2026__1": "284,984",
+    "world_bank__2024__6": "269,322",
+    "united_nations__2024__7": "266,972"
+  },
+  {
+    "country_territory": "New Zealand",
+    "imf__2026__1": "280,553",
+    "world_bank__2024__6": "260,172",
+    "united_nations__2024__7": "260,172"
+  },
+  {
+    "country_territory": "Iraq",
+    "imf__2026__1": "273,912",
+    "world_bank__2024__6": "279,641",
+    "united_nations__2024__7": "279,641"
+  },
+  {
+    "country_territory": "Hungary",
+    "imf__2026__1": "269,916",
+    "world_bank__2024__6": "222,723",
+    "united_nations__2024__7": "222,905"
+  },
+  {
+    "country_territory": "Cuba",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "107,352 (2020)",
+    "united_nations__2024__7": "252,063"
+  },
+  {
+    "country_territory": "Qatar",
+    "imf__2026__1": "239,142",
+    "world_bank__2024__6": "219,163",
+    "united_nations__2024__7": "219,163"
+  },
+  {
+    "country_territory": "Ukraine[n 5]",
+    "imf__2026__1": "224,259",
+    "world_bank__2024__6": "190,741",
+    "united_nations__2024__7": "190,741"
+  },
+  {
+    "country_territory": "Morocco",
+    "imf__2026__1": "196,121",
+    "world_bank__2024__6": "160,611",
+    "united_nations__2024__7": "160,606"
+  },
+  {
+    "country_territory": "Slovakia",
+    "imf__2026__1": "167,730",
+    "world_bank__2024__6": "140,934",
+    "united_nations__2024__7": "141,776"
+  },
+  {
+    "country_territory": "Kuwait",
+    "imf__2026__1": "162,895",
+    "world_bank__2024__6": "160,227",
+    "united_nations__2024__7": "160,227"
+  },
+  {
+    "country_territory": "Uzbekistan",
+    "imf__2026__1": "159,199",
+    "world_bank__2024__6": "114,965",
+    "united_nations__2024__7": "114,965"
+  },
+  {
+    "country_territory": "Bulgaria",
+    "imf__2026__1": "142,203",
+    "world_bank__2024__6": "113,343",
+    "united_nations__2024__7": "113,343"
+  },
+  {
+    "country_territory": "Kenya",
+    "imf__2026__1": "140,871",
+    "world_bank__2024__6": "120,340",
+    "united_nations__2024__7": "120,340"
+  },
+  {
+    "country_territory": "Dominican Republic",
+    "imf__2026__1": "138,340",
+    "world_bank__2024__6": "124,282",
+    "united_nations__2024__7": "124,282"
+  },
+  {
+    "country_territory": "Ecuador",
+    "imf__2026__1": "134,711",
+    "world_bank__2024__6": "124,676",
+    "united_nations__2024__7": "124,676"
+  },
+  {
+    "country_territory": "Guatemala",
+    "imf__2026__1": "129,466",
+    "world_bank__2024__6": "113,200",
+    "united_nations__2024__7": "113,200"
+  },
+  {
+    "country_territory": "Puerto Rico",
+    "imf__2026__1": "129,192",
+    "world_bank__2024__6": "126,030",
+    "united_nations__2024__7": "125,842"
+  },
+  {
+    "country_territory": "Ethiopia",
+    "imf__2026__1": "125,744",
+    "world_bank__2024__6": "149,740",
+    "united_nations__2024__7": "142,275"
+  },
+  {
+    "country_territory": "Ghana",
+    "imf__2026__1": "113,494",
+    "world_bank__2024__6": "82,308",
+    "united_nations__2024__7": "82,938"
+  },
+  {
+    "country_territory": "Croatia",
+    "imf__2026__1": "113,132",
+    "world_bank__2024__6": "92,984",
+    "united_nations__2024__7": "92,662"
+  },
+  {
+    "country_territory": "Serbia",
+    "imf__2026__1": "112,108",
+    "world_bank__2024__6": "90,098",
+    "united_nations__2024__7": "89,074"
+  },
+  {
+    "country_territory": "Ivory Coast",
+    "imf__2026__1": "111,446",
+    "world_bank__2024__6": "87,113",
+    "united_nations__2024__7": "85,894"
+  },
+  {
+    "country_territory": "Angola",
+    "imf__2026__1": "109,855",
+    "world_bank__2024__6": "100,999",
+    "united_nations__2024__7": "117,159"
+  },
+  {
+    "country_territory": "Costa Rica",
+    "imf__2026__1": "109,135",
+    "world_bank__2024__6": "95,350",
+    "united_nations__2024__7": "95,350"
+  },
+  {
+    "country_territory": "Oman",
+    "imf__2026__1": "108,913",
+    "world_bank__2024__6": "107,137",
+    "united_nations__2024__7": "107,137"
+  },
+  {
+    "country_territory": "Luxembourg",
+    "imf__2026__1": "107,758",
+    "world_bank__2024__6": "93,280",
+    "united_nations__2024__7": "93,280"
+  },
+  {
+    "country_territory": "Lithuania",
+    "imf__2026__1": "104,651",
+    "world_bank__2024__6": "84,869",
+    "united_nations__2024__7": "84,869"
+  },
+  {
+    "country_territory": "Sri Lanka",
+    "imf__2026__1": "98,964 (2024)",
+    "world_bank__2024__6": "98,963",
+    "united_nations__2024__7": "98,714"
+  },
+  {
+    "country_territory": "Panama",
+    "imf__2026__1": "95,905",
+    "world_bank__2024__6": "86,524",
+    "united_nations__2024__7": "86,260"
+  },
+  {
+    "country_territory": "Tanzania[n 6]",
+    "imf__2026__1": "95,349",
+    "world_bank__2024__6": "78,844",
+    "united_nations__2024__7": "79,236"
+  },
+  {
+    "country_territory": "Uruguay",
+    "imf__2026__1": "90,640",
+    "world_bank__2024__6": "80,962",
+    "united_nations__2024__7": "80,962"
+  },
+  {
+    "country_territory": "Belarus",
+    "imf__2026__1": "90,556",
+    "world_bank__2024__6": "75,962",
+    "united_nations__2024__7": "75,962"
+  },
+  {
+    "country_territory": "DR Congo",
+    "imf__2026__1": "88,126",
+    "world_bank__2024__6": "70,962",
+    "united_nations__2024__7": "75,322"
+  },
+  {
+    "country_territory": "Slovenia",
+    "imf__2026__1": "85,738",
+    "world_bank__2024__6": "72,972",
+    "united_nations__2024__7": "72,485"
+  },
+  {
+    "country_territory": "Azerbaijan",
+    "imf__2026__1": "80,024",
+    "world_bank__2024__6": "74,316",
+    "united_nations__2024__7": "74,316"
+  },
+  {
+    "country_territory": "Venezuela",
+    "imf__2026__1": "79,916",
+    "world_bank__2024__6": "119,803",
+    "united_nations__2024__7": "150,494"
+  },
+  {
+    "country_territory": "Turkmenistan",
+    "imf__2026__1": "76,897",
+    "world_bank__2024__6": "51,387",
+    "united_nations__2024__7": "68,655"
+  },
+  {
+    "country_territory": "Uganda",
+    "imf__2026__1": "72,456",
+    "world_bank__2024__6": "53,912",
+    "united_nations__2024__7": "56,369"
+  },
+  {
+    "country_territory": "Cameroon",
+    "imf__2026__1": "67,517",
+    "world_bank__2024__6": "53,297",
+    "united_nations__2024__7": "53,297"
+  },
+  {
+    "country_territory": "Myanmar",
+    "imf__2026__1": "65,171",
+    "world_bank__2024__6": "74,068",
+    "united_nations__2024__7": "64,796"
+  },
+  {
+    "country_territory": "Tunisia",
+    "imf__2026__1": "60,434",
+    "world_bank__2024__6": "51,332",
+    "united_nations__2024__7": "53,493"
+  },
+  {
+    "country_territory": "Jordan",
+    "imf__2026__1": "59,288",
+    "world_bank__2024__6": "53,352",
+    "united_nations__2024__7": "53,352"
+  },
+  {
+    "country_territory": "Bolivia",
+    "imf__2026__1": "57,086",
+    "world_bank__2024__6": "54,881",
+    "united_nations__2024__7": "46,627"
+  },
+  {
+    "country_territory": "Zimbabwe",
+    "imf__2026__1": "55,434",
+    "world_bank__2024__6": "41,539",
+    "united_nations__2024__7": "45,719"
+  },
+  {
+    "country_territory": "Macau[n 7]",
+    "imf__2026__1": "54,935",
+    "world_bank__2024__6": "49,467",
+    "united_nations__2024__7": "49,467"
+  },
+  {
+    "country_territory": "Latvia",
+    "imf__2026__1": "52,248",
+    "world_bank__2024__6": "43,684",
+    "united_nations__2024__7": "43,684"
+  },
+  {
+    "country_territory": "Paraguay",
+    "imf__2026__1": "51,669",
+    "world_bank__2024__6": "44,458",
+    "united_nations__2024__7": "44,739"
+  },
+  {
+    "country_territory": "Cambodia",
+    "imf__2026__1": "51,506",
+    "world_bank__2024__6": "46,353",
+    "united_nations__2024__7": "45,913"
+  },
+  {
+    "country_territory": "Estonia",
+    "imf__2026__1": "51,036",
+    "world_bank__2024__6": "43,130",
+    "united_nations__2024__7": "42,765"
+  },
+  {
+    "country_territory": "Bahrain",
+    "imf__2026__1": "49,194",
+    "world_bank__2024__6": "47,110",
+    "united_nations__2024__7": "47,110"
+  },
+  {
+    "country_territory": "Libya",
+    "imf__2026__1": "49,164",
+    "world_bank__2024__6": "48,487",
+    "united_nations__2024__7": "48,484"
+  },
+  {
+    "country_territory": "Nepal",
+    "imf__2026__1": "49,112",
+    "world_bank__2024__6": "42,914",
+    "united_nations__2024__7": "42,692"
+  },
+  {
+    "country_territory": "Iceland",
+    "imf__2026__1": "43,404",
+    "world_bank__2024__6": "33,255",
+    "united_nations__2024__7": "33,222"
+  },
+  {
+    "country_territory": "Cyprus[n 8]",
+    "imf__2026__1": "43,158",
+    "world_bank__2024__6": "37,635",
+    "united_nations__2024__7": "37,635"
+  },
+  {
+    "country_territory": "Honduras",
+    "imf__2026__1": "40,821",
+    "world_bank__2024__6": "37,094",
+    "united_nations__2024__7": "37,094"
+  },
+  {
+    "country_territory": "Georgia[n 9]",
+    "imf__2026__1": "40,177",
+    "world_bank__2024__6": "34,189",
+    "united_nations__2024__7": "34,192"
+  },
+  {
+    "country_territory": "Senegal",
+    "imf__2026__1": "39,986",
+    "world_bank__2024__6": "32,808",
+    "united_nations__2024__7": "36,715"
+  },
+  {
+    "country_territory": "Sudan",
+    "imf__2026__1": "39,474",
+    "world_bank__2024__6": "49,672",
+    "united_nations__2024__7": "25,574"
+  },
+  {
+    "country_territory": "El Salvador",
+    "imf__2026__1": "37,981",
+    "world_bank__2024__6": "35,365",
+    "united_nations__2024__7": "35,365"
+  },
+  {
+    "country_territory": "Bosnia and Herzegovina",
+    "imf__2026__1": "36,239",
+    "world_bank__2024__6": "29,614",
+    "united_nations__2024__7": "30,478"
+  },
+  {
+    "country_territory": "Zambia",
+    "imf__2026__1": "33,945",
+    "world_bank__2024__6": "25,303",
+    "united_nations__2024__7": "25,303"
+  },
+  {
+    "country_territory": "Papua New Guinea",
+    "imf__2026__1": "33,463",
+    "world_bank__2024__6": "31,800",
+    "united_nations__2024__7": "32,262"
+  },
+  {
+    "country_territory": "Albania",
+    "imf__2026__1": "32,411",
+    "world_bank__2024__6": "27,046",
+    "united_nations__2024__7": "27,037"
+  },
+  {
+    "country_territory": "Haiti",
+    "imf__2026__1": "31,097",
+    "world_bank__2024__6": "25,224",
+    "united_nations__2024__7": "25,312"
+  },
+  {
+    "country_territory": "Guinea",
+    "imf__2026__1": "30,922",
+    "world_bank__2024__6": "25,009",
+    "united_nations__2024__7": "36,465"
+  },
+  {
+    "country_territory": "Burkina Faso",
+    "imf__2026__1": "30,705",
+    "world_bank__2024__6": "23,125",
+    "united_nations__2024__7": "23,250"
+  },
+  {
+    "country_territory": "Malta",
+    "imf__2026__1": "30,437",
+    "world_bank__2024__6": "24,972",
+    "united_nations__2024__7": "25,030"
+  },
+  {
+    "country_territory": "Armenia",
+    "imf__2026__1": "29,082",
+    "world_bank__2024__6": "25,955",
+    "united_nations__2024__7": "25,955"
+  },
+  {
+    "country_territory": "Mali",
+    "imf__2026__1": "28,478",
+    "world_bank__2024__6": "26,795",
+    "united_nations__2024__7": "26,588"
+  },
+  {
+    "country_territory": "Lebanon",
+    "imf__2026__1": "28,280 (2024)",
+    "world_bank__2024__6": "20,079 (2023)",
+    "united_nations__2024__7": "37,990"
+  },
+  {
+    "country_territory": "Guyana",
+    "imf__2026__1": "27,486",
+    "world_bank__2024__6": "24,663",
+    "united_nations__2024__7": "24,659"
+  },
+  {
+    "country_territory": "Benin",
+    "imf__2026__1": "27,453",
+    "world_bank__2024__6": "21,483",
+    "united_nations__2024__7": "21,483"
+  },
+  {
+    "country_territory": "Trinidad and Tobago",
+    "imf__2026__1": "26,758",
+    "world_bank__2024__6": "25,634",
+    "united_nations__2024__7": "25,634"
+  },
+  {
+    "country_territory": "Mongolia",
+    "imf__2026__1": "26,520",
+    "world_bank__2024__6": "23,795",
+    "united_nations__2024__7": "23,586"
+  },
+  {
+    "country_territory": "Mozambique",
+    "imf__2026__1": "26,512",
+    "world_bank__2024__6": "22,745",
+    "united_nations__2024__7": "22,745"
+  },
+  {
+    "country_territory": "Niger",
+    "imf__2026__1": "26,110",
+    "world_bank__2024__6": "19,876",
+    "united_nations__2024__7": "17,491"
+  },
+  {
+    "country_territory": "Jamaica",
+    "imf__2026__1": "24,132",
+    "world_bank__2024__6": "22,014",
+    "united_nations__2024__7": "22,014"
+  },
+  {
+    "country_territory": "Chad",
+    "imf__2026__1": "23,556",
+    "world_bank__2024__6": "19,519",
+    "united_nations__2024__7": "19,797"
+  },
+  {
+    "country_territory": "Gabon",
+    "imf__2026__1": "22,726",
+    "world_bank__2024__6": "20,896",
+    "united_nations__2024__7": "20,867"
+  },
+  {
+    "country_territory": "Nicaragua",
+    "imf__2026__1": "21,860",
+    "world_bank__2024__6": "19,694",
+    "united_nations__2024__7": "19,694"
+  },
+  {
+    "country_territory": "Kyrgyzstan",
+    "imf__2026__1": "21,563",
+    "world_bank__2024__6": "17,478",
+    "united_nations__2024__7": "17,478"
+  },
+  {
+    "country_territory": "Madagascar",
+    "imf__2026__1": "21,091",
+    "world_bank__2024__6": "17,421",
+    "united_nations__2024__7": "17,421"
+  },
+  {
+    "country_territory": "Moldova[n 10]",
+    "imf__2026__1": "21,024",
+    "world_bank__2024__6": "18,200",
+    "united_nations__2024__7": "18,200"
+  },
+  {
+    "country_territory": "North Macedonia",
+    "imf__2026__1": "20,751",
+    "world_bank__2024__6": "16,952",
+    "united_nations__2024__7": "16,952"
+  },
+  {
+    "country_territory": "Botswana",
+    "imf__2026__1": "20,708",
+    "world_bank__2024__6": "19,402",
+    "united_nations__2024__7": "19,401"
+  },
+  {
+    "country_territory": "Tajikistan",
+    "imf__2026__1": "18,941",
+    "world_bank__2024__6": "14,205",
+    "united_nations__2024__7": "13,949"
+  },
+  {
+    "country_territory": "Afghanistan",
+    "imf__2026__1": "18,080 (2024)",
+    "world_bank__2024__6": "17,152 (2023)",
+    "united_nations__2024__7": "18,283"
+  },
+  {
+    "country_territory": "Malawi",
+    "imf__2026__1": "17,855",
+    "world_bank__2024__6": "11,316",
+    "united_nations__2024__7": "11,734"
+  },
+  {
+    "country_territory": "Laos",
+    "imf__2026__1": "17,781",
+    "world_bank__2024__6": "16,503",
+    "united_nations__2024__7": "16,129"
+  },
+  {
+    "country_territory": "Syria",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "23,623 (2022)",
+    "united_nations__2024__7": "17,254"
+  },
+  {
+    "country_territory": "Yemen",
+    "imf__2026__1": "17,240",
+    "world_bank__2024__6": "21,606 (2018)",
+    "united_nations__2024__7": "14,304"
+  },
+  {
+    "country_territory": "North Korea",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "17,199"
+  },
+  {
+    "country_territory": "Congo",
+    "imf__2026__1": "16,952",
+    "world_bank__2024__6": "15,720",
+    "united_nations__2024__7": "16,412"
+  },
+  {
+    "country_territory": "Bahamas",
+    "imf__2026__1": "16,841",
+    "world_bank__2024__6": "15,833",
+    "united_nations__2024__7": "15,833"
+  },
+  {
+    "country_territory": "Mauritius",
+    "imf__2026__1": "16,756",
+    "world_bank__2024__6": "14,938",
+    "united_nations__2024__7": "14,953"
+  },
+  {
+    "country_territory": "Brunei",
+    "imf__2026__1": "16,457",
+    "world_bank__2024__6": "15,341",
+    "united_nations__2024__7": "15,463"
+  },
+  {
+    "country_territory": "Namibia",
+    "imf__2026__1": "16,100",
+    "world_bank__2024__6": "13,372",
+    "united_nations__2024__7": "13,372"
+  },
+  {
+    "country_territory": "Rwanda",
+    "imf__2026__1": "15,472",
+    "world_bank__2024__6": "14,252",
+    "united_nations__2024__7": "15,111"
+  },
+  {
+    "country_territory": "Equatorial Guinea",
+    "imf__2026__1": "14,103",
+    "world_bank__2024__6": "12,766",
+    "united_nations__2024__7": "12,288"
+  },
+  {
+    "country_territory": "Kosovo",
+    "imf__2026__1": "14,097",
+    "world_bank__2024__6": "11,197",
+    "united_nations__2024__7": "11,154"
+  },
+  {
+    "country_territory": "Somalia",
+    "imf__2026__1": "13,912",
+    "world_bank__2024__6": "11,967",
+    "united_nations__2024__7": "11,966"
+  },
+  {
+    "country_territory": "Palestine[n 11][n 12]",
+    "imf__2026__1": "13,711 (2024)",
+    "world_bank__2024__6": "13,711",
+    "united_nations__2024__7": "16,017"
+  },
+  {
+    "country_territory": "Mauritania",
+    "imf__2026__1": "12,854",
+    "world_bank__2024__6": "10,908",
+    "united_nations__2024__7": "10,912"
+  },
+  {
+    "country_territory": "Channel Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "12,508 (2023)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Togo",
+    "imf__2026__1": "12,176",
+    "world_bank__2024__6": "10,651",
+    "united_nations__2024__7": "10,163"
+  },
+  {
+    "country_territory": "Monaco",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "11,126",
+    "united_nations__2024__7": "11,126"
+  },
+  {
+    "country_territory": "Montenegro",
+    "imf__2026__1": "10,229",
+    "world_bank__2024__6": "8,270",
+    "united_nations__2024__7": "8,274"
+  },
+  {
+    "country_territory": "Liechtenstein",
+    "imf__2026__1": "10,116",
+    "world_bank__2024__6": "8,239 (2023)",
+    "united_nations__2024__7": "8,628"
+  },
+  {
+    "country_territory": "Sierra Leone",
+    "imf__2026__1": "9,302",
+    "world_bank__2024__6": "6,971",
+    "united_nations__2024__7": "6,792"
+  },
+  {
+    "country_territory": "Bermuda",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "9,234",
+    "united_nations__2024__7": "8,840"
+  },
+  {
+    "country_territory": "Burundi",
+    "imf__2026__1": "9,212",
+    "world_bank__2024__6": "3,082",
+    "united_nations__2024__7": "4,431"
+  },
+  {
+    "country_territory": "New Caledonia",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "8,549",
+    "united_nations__2024__7": "8,549"
+  },
+  {
+    "country_territory": "Maldives",
+    "imf__2026__1": "8,221",
+    "world_bank__2024__6": "7,062",
+    "united_nations__2024__7": "7,062"
+  },
+  {
+    "country_territory": "Barbados",
+    "imf__2026__1": "7,944",
+    "world_bank__2024__6": "7,498",
+    "united_nations__2024__7": "7,598"
+  },
+  {
+    "country_territory": "Cayman Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "7,241 (2023)",
+    "united_nations__2024__7": "7,657"
+  },
+  {
+    "country_territory": "Isle of Man",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "7,431 (2022)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Guam",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "6,910 (2022)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Fiji",
+    "imf__2026__1": "6,696",
+    "world_bank__2024__6": "5,968",
+    "united_nations__2024__7": "5,968"
+  },
+  {
+    "country_territory": "French Polynesia",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "6,324",
+    "united_nations__2024__7": "6,323"
+  },
+  {
+    "country_territory": "South Sudan",
+    "imf__2026__1": "6,033",
+    "world_bank__2024__6": "11,998 (2015)",
+    "united_nations__2024__7": "3,522"
+  },
+  {
+    "country_territory": "Liberia",
+    "imf__2026__1": "5,594",
+    "world_bank__2024__6": "4,779",
+    "united_nations__2024__7": "5,251"
+  },
+  {
+    "country_territory": "Eswatini",
+    "imf__2026__1": "5,495",
+    "world_bank__2024__6": "4,859",
+    "united_nations__2024__7": "4,947"
+  },
+  {
+    "country_territory": "Djibouti",
+    "imf__2026__1": "5,003",
+    "world_bank__2024__6": "4,152",
+    "united_nations__2024__7": "4,152"
+  },
+  {
+    "country_territory": "Suriname",
+    "imf__2026__1": "4,870",
+    "world_bank__2024__6": "4,417",
+    "united_nations__2024__7": "4,435"
+  },
+  {
+    "country_territory": "Andorra",
+    "imf__2026__1": "4,715",
+    "world_bank__2024__6": "4,040",
+    "united_nations__2024__7": "4,040"
+  },
+  {
+    "country_territory": "U.S. Virgin Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "4,672 (2022)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Aruba",
+    "imf__2026__1": "4,471",
+    "world_bank__2024__6": "4,266",
+    "united_nations__2024__7": "4,192"
+  },
+  {
+    "country_territory": "Faroe Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "4,053",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Bhutan",
+    "imf__2026__1": "3,771",
+    "world_bank__2024__6": "3,013 (2023)",
+    "united_nations__2024__7": "3,347"
+  },
+  {
+    "country_territory": "Central African Republic",
+    "imf__2026__1": "3,708",
+    "world_bank__2024__6": "2,751",
+    "united_nations__2024__7": "2,752"
+  },
+  {
+    "country_territory": "Cura\u00e7ao",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "3,561",
+    "united_nations__2024__7": "3,561"
+  },
+  {
+    "country_territory": "Greenland",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "3,327 (2023)",
+    "united_nations__2024__7": "3,466"
+  },
+  {
+    "country_territory": "Belize",
+    "imf__2026__1": "3,442",
+    "world_bank__2024__6": "3,204",
+    "united_nations__2024__7": "3,204"
+  },
+  {
+    "country_territory": "Cape Verde",
+    "imf__2026__1": "3,138",
+    "world_bank__2024__6": "2,725",
+    "united_nations__2024__7": "2,768"
+  },
+  {
+    "country_territory": "Saint Lucia",
+    "imf__2026__1": "2,770",
+    "world_bank__2024__6": "2,549",
+    "united_nations__2024__7": "2,574"
+  },
+  {
+    "country_territory": "Guinea-Bissau",
+    "imf__2026__1": "2,764",
+    "world_bank__2024__6": "2,218",
+    "united_nations__2024__7": "2,008"
+  },
+  {
+    "country_territory": "Gambia",
+    "imf__2026__1": "2,672",
+    "world_bank__2024__6": "2,405",
+    "united_nations__2024__7": "2,372"
+  },
+  {
+    "country_territory": "Zanzibar",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "2,530"
+  },
+  {
+    "country_territory": "Lesotho",
+    "imf__2026__1": "2,474",
+    "world_bank__2024__6": "2,272",
+    "united_nations__2024__7": "2,391"
+  },
+  {
+    "country_territory": "Antigua and Barbuda",
+    "imf__2026__1": "2,456",
+    "world_bank__2024__6": "2,208",
+    "united_nations__2024__7": "2,162"
+  },
+  {
+    "country_territory": "San Marino",
+    "imf__2026__1": "2,393",
+    "world_bank__2024__6": "2,028 (2023)",
+    "united_nations__2024__7": "2,082"
+  },
+  {
+    "country_territory": "Seychelles",
+    "imf__2026__1": "2,249",
+    "world_bank__2024__6": "2,167",
+    "united_nations__2024__7": "2,162"
+  },
+  {
+    "country_territory": "Timor-Leste",
+    "imf__2026__1": "2,208",
+    "world_bank__2024__6": "1,866",
+    "united_nations__2024__7": "1,866"
+  },
+  {
+    "country_territory": "Solomon Islands",
+    "imf__2026__1": "2,051",
+    "world_bank__2024__6": "1,584",
+    "united_nations__2024__7": "1,584"
+  },
+  {
+    "country_territory": "Eritrea",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "2,065 (2011)",
+    "united_nations__2024__7": "1,917"
+  },
+  {
+    "country_territory": "British Virgin Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "1,830"
+  },
+  {
+    "country_territory": "Sint Maarten",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "1,798",
+    "united_nations__2024__7": "1,670"
+  },
+  {
+    "country_territory": "Comoros",
+    "imf__2026__1": "1,770",
+    "world_bank__2024__6": "1,441",
+    "united_nations__2024__7": "1,567"
+  },
+  {
+    "country_territory": "Turks and Caicos Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "1,745",
+    "united_nations__2024__7": "1,757"
+  },
+  {
+    "country_territory": "Grenada",
+    "imf__2026__1": "1,524",
+    "world_bank__2024__6": "1,372",
+    "united_nations__2024__7": "1,372"
+  },
+  {
+    "country_territory": "Samoa",
+    "imf__2026__1": "1,333",
+    "world_bank__2024__6": "1,176",
+    "united_nations__2024__7": "1,253"
+  },
+  {
+    "country_territory": "Saint Vincent and the Grenadines",
+    "imf__2026__1": "1,299",
+    "world_bank__2024__6": "1,157",
+    "united_nations__2024__7": "1,136"
+  },
+  {
+    "country_territory": "Saint Kitts and Nevis",
+    "imf__2026__1": "1,190",
+    "world_bank__2024__6": "1,122",
+    "united_nations__2024__7": "1,122"
+  },
+  {
+    "country_territory": "Vanuatu",
+    "imf__2026__1": "1,176",
+    "world_bank__2024__6": "1,118",
+    "united_nations__2024__7": "1,092"
+  },
+  {
+    "country_territory": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "imf__2026__1": "1,125",
+    "world_bank__2024__6": "822",
+    "united_nations__2024__7": "828"
+  },
+  {
+    "country_territory": "Northern Mariana Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "1,096 (2022)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "American Samoa",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "871 (2022)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Dominica",
+    "imf__2026__1": "791",
+    "world_bank__2024__6": "689",
+    "united_nations__2024__7": "689"
+  },
+  {
+    "country_territory": "Saint Martin",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "649 (2021)",
+    "united_nations__2024__7": "\u2014\nN/a"
+  },
+  {
+    "country_territory": "Tonga",
+    "imf__2026__1": "616",
+    "world_bank__2024__6": "591 (2023)",
+    "united_nations__2024__7": "648"
+  },
+  {
+    "country_territory": "Micronesia",
+    "imf__2026__1": "519",
+    "world_bank__2024__6": "471",
+    "united_nations__2024__7": "471"
+  },
+  {
+    "country_territory": "Anguilla",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "456"
+  },
+  {
+    "country_territory": "Cook Islands",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "414"
+  },
+  {
+    "country_territory": "Palau",
+    "imf__2026__1": "362",
+    "world_bank__2024__6": "277 (2023)",
+    "united_nations__2024__7": "310"
+  },
+  {
+    "country_territory": "Kiribati",
+    "imf__2026__1": "343",
+    "world_bank__2024__6": "308",
+    "united_nations__2024__7": "343"
+  },
+  {
+    "country_territory": "Marshall Islands",
+    "imf__2026__1": "332",
+    "world_bank__2024__6": "290",
+    "united_nations__2024__7": "281"
+  },
+  {
+    "country_territory": "Nauru",
+    "imf__2026__1": "183",
+    "world_bank__2024__6": "163",
+    "united_nations__2024__7": "187"
+  },
+  {
+    "country_territory": "Montserrat",
+    "imf__2026__1": "\u2014\nN/a",
+    "world_bank__2024__6": "\u2014\nN/a",
+    "united_nations__2024__7": "81"
+  },
+  {
+    "country_territory": "Tuvalu",
+    "imf__2026__1": "61",
+    "world_bank__2024__6": "62 (2023)",
+    "united_nations__2024__7": "56"
+  }
+]
