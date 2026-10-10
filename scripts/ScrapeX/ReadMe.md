@@ -1,6 +1,6 @@
 # How to Scrape Twitter without Authentication
 
-Code examples for the blog post **["How to Scrape Twitter without Authentication: Gaffa Guide"](https://gaffa.dev/blog/how-to-scrape-twitter-without-authentication-gaffa-guide)** using the [Gaffa Browser Request API](https://gaffa.dev).
+Code examples for the blog post **["How to Scrape Twitter without Authentication: Gaffa Guide"](BLOG_POST_URL)** using the [Gaffa Browser Request API](https://gaffa.dev).
 
 The script loads a public X profile with Gaffa's `capture_dom` action, finds the visible tweet links, and saves each post's text, publish time, links, and engagement counts as JSON. No X account or login is needed.
 
