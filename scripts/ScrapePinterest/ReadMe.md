@@ -33,7 +33,7 @@ If it isn't set, the script will prompt you for it when it runs.
 ## Run
 
 ```bash
-python xscraper.py
+python pinterestscraper.py
 ```
 
 Results are written to `pinterest_results.json/`.
